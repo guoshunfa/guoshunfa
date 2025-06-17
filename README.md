@@ -1,14 +1,14 @@
 # 👋 Hi, I'm 郭顺发 (Guo Shunfa)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=独立开发者+%26+自由职业者;Full-Stack+Developer;5%2B+年开发经验;专注软件定制开发" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=独立开发者+%26+自由职业者;Full-Stack+Developer;7%2B+年开发经验;专注软件定制开发" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 关于我
 
-我是一名**独立开发者**和**自由职业者**，专注于软件定制开发和产品创造。拥有5+年的全栈开发经验，从北京互联网公司到哈尔滨软件外包，再到现在的独立创业，我积累了丰富的项目经验和客户沟通能力。
+我是一名**独立开发者**和**自由职业者**，专注于软件定制开发和产品创造。拥有7+年的全栈开发经验，从北京互联网公司到哈尔滨软件外包，再到现在的独立创业，我积累了丰富的项目经验和客户沟通能力。
 
 - 🎯 **目标**：打造个人IP，通过自媒体推广服务和产品
 - 💼 **公司**：哈尔滨云匠科技有限公司 创始人
@@ -35,13 +35,18 @@
 ### 掌握技术
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Browser Extension](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 ---
 
@@ -65,11 +70,14 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub 提交日志
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guoshunfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoshunfa&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guoshunfa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/guoshunfa" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ---
@@ -103,9 +111,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guoshunfa&label=访问量&color=0e75b6&style=flat" alt="访问量" />
 
-  **💼 开放合作 | 🚀 快速交付 | � 创新思维**
+  ![Profile views](https://komarev.com/ghpvc/?username=guoshunfa&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+  **💼 开放合作 | 🚀 快速交付 | 💡 创新思维**
 
   *让我们一起创造更好的软件产品！*
 </div>
