@@ -1,8 +1,14 @@
-# 👋 郭顺发
+# 👋 你好啊，我是郭顺发
 
-独立开发者，哈尔滨。接单 + 做点小软件。
+独立开发者，自由职业者。
+
+平时接接单，做点小软件。
+
+
 
 🌐 [guoshunfa.com](https://guoshunfa.com) | 📧 me@guoshunfa.com | ℹ️ [我的微信](https://p.guoshunfa.com/weixin_add.jpg)
+
+------
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -12,7 +18,9 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
-## 📊 代码提交
+
+
+
 
 <div align="center">
   <img src="https://ghchart.rshah.org/409ba5/guoshunfa" alt="GitHub Contribution Chart" width="100%"/>
