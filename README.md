@@ -18,10 +18,3 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
-
-
-
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/guoshunfa" alt="GitHub Contribution Chart" width="100%"/>
-</div>
