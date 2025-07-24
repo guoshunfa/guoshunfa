@@ -1,20 +1,17 @@
-# 👋 你好啊，我是郭顺发
+# 你好.
 
-独立开发者，自由职业者。
+## 我是郭顺发
 
-平时接接单，做点小软件。
+毕业后一直在做软件开发相关工作，目前是比较独立的状态，可以叫独立开发者，或者叫自由职业者。我很享受这样的工作环境，因为周围没有垃圾人，就很快乐。
 
 
 
-🌐 [guoshunfa.com](https://guoshunfa.com) | 📧 me@guoshunfa.com | ℹ️ [我的微信](https://p.guoshunfa.com/weixin_add.jpg)
+有了更多的自由时间，我选择了一直学习。因为发现不懂的真的太多，编程方面需要考虑多端开发、如何高效快速开发；公司方面需要学习税务知识、如何管理；自媒体方面需要考虑如何选题、如何放开；阅读、古中医、等等等等。有太多的事情我需要去学习，我坚信我会坚持下去。
 
-------
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
+单干之后，收入的主要来源就是接单，在[抖音](https://www.douyin.com/user/MS4wLjABAAAAYnfuwhiHx5U_6KcI25fCi6RBzUVflyjTpTs7Y8iyyNDZM7CxRuFuSQoOJbK5EaAx)发布视频&直播、在公众号("小郭帮你做软件")发布文章&博客、在[微博](https://weibo.com/u/7033080465)进行互动，然后有很多客户来找我，我帮他做软件赚取报酬。在这个过程中，我接触了越来越多的项目，从很多方面都获得了经验。
+
+
+
+<img src="./weixin_add.png" alt="weixin_add" style="zoom:25%;" /> <img src="./qrcode_for_gh_bbbaaff96efc_258.jpg" alt="qrcode_for_gh_bbbaaff96efc_258" style="zoom:80%;" /> 
