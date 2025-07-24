@@ -11,7 +11,3 @@
 
 
 单干之后，收入的主要来源就是接单，在[抖音](https://www.douyin.com/user/MS4wLjABAAAAYnfuwhiHx5U_6KcI25fCi6RBzUVflyjTpTs7Y8iyyNDZM7CxRuFuSQoOJbK5EaAx)发布视频&直播、在公众号("小郭帮你做软件")发布文章&博客、在[微博](https://weibo.com/u/7033080465)进行互动，然后有很多客户来找我，我帮他做软件赚取报酬。在这个过程中，我接触了越来越多的项目，从很多方面都获得了经验。
-
-
-
-<img src="./weixin_add.png" alt="weixin_add" style="zoom:25%;" />   <img src="./qrcode_for_gh_bbbaaff96efc_258.jpg" alt="qrcode_for_gh_bbbaaff96efc_258" style="zoom:80%;" /> 
