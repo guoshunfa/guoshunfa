@@ -14,4 +14,4 @@
 
 
 
-<img src="./weixin_add.png" alt="weixin_add" style="zoom:25%;" /> <img src="./qrcode_for_gh_bbbaaff96efc_258.jpg" alt="qrcode_for_gh_bbbaaff96efc_258" style="zoom:80%;" /> 
+<img src="./weixin_add.png" alt="weixin_add" style="zoom:25%;" />   <img src="./qrcode_for_gh_bbbaaff96efc_258.jpg" alt="qrcode_for_gh_bbbaaff96efc_258" style="zoom:80%;" /> 
